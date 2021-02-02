@@ -7,6 +7,9 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <TextBox x:Name="txtVideourl" HorizontalAlignment="Left" Height="32" Margin="22,27,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="748"/>
+        <WebBrowser x:Name="Browser" HorizontalAlignment="Left" Height="281" Margin="22,59,0,0" VerticalAlignment="Top" Width="739"/>
+        <Button x:Name="btnClickme" Content="CLICK ME" HorizontalAlignment="Left" Height="37" Margin="574,374,0,0" VerticalAlignment="Top" Width="187" Click="btnClickme_Click"/>
+
     </Grid>
 </Window>

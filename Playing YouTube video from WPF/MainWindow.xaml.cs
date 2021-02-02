@@ -24,5 +24,10 @@ namespace Playing_YouTube_video_from_WPF
         {
             InitializeComponent();
         }
+
+        private void btnClickme_Click(object sender, RoutedEventArgs e)
+        {
+            this.Browser.Navigate(txtVideourl.Text);
+        }
     }
 }

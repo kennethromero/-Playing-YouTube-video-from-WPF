@@ -1,0 +1,15 @@
+C:\Users\Kenneth\Desktop\ict project\projects\Playing YouTube video from WPF\Playing YouTube video from WPF\bin\Debug\Playing YouTube video from WPF.exe.config
+C:\Users\Kenneth\Desktop\ict project\projects\Playing YouTube video from WPF\Playing YouTube video from WPF\bin\Debug\Playing YouTube video from WPF.exe
+C:\Users\Kenneth\Desktop\ict project\projects\Playing YouTube video from WPF\Playing YouTube video from WPF\bin\Debug\Playing YouTube video from WPF.pdb
+C:\Users\Kenneth\Desktop\ict project\projects\Playing YouTube video from WPF\Playing YouTube video from WPF\obj\Debug\Playing YouTube video from WPF.csprojAssemblyReference.cache
+C:\Users\Kenneth\Desktop\ict project\projects\Playing YouTube video from WPF\Playing YouTube video from WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Kenneth\Desktop\ict project\projects\Playing YouTube video from WPF\Playing YouTube video from WPF\obj\Debug\App.g.cs
+C:\Users\Kenneth\Desktop\ict project\projects\Playing YouTube video from WPF\Playing YouTube video from WPF\obj\Debug\Playing YouTube video from WPF_MarkupCompile.cache
+C:\Users\Kenneth\Desktop\ict project\projects\Playing YouTube video from WPF\Playing YouTube video from WPF\obj\Debug\Playing YouTube video from WPF_MarkupCompile.lref
+C:\Users\Kenneth\Desktop\ict project\projects\Playing YouTube video from WPF\Playing YouTube video from WPF\obj\Debug\MainWindow.baml
+C:\Users\Kenneth\Desktop\ict project\projects\Playing YouTube video from WPF\Playing YouTube video from WPF\obj\Debug\Playing YouTube video from WPF.g.resources
+C:\Users\Kenneth\Desktop\ict project\projects\Playing YouTube video from WPF\Playing YouTube video from WPF\obj\Debug\Playing_YouTube_video_from_WPF.Properties.Resources.resources
+C:\Users\Kenneth\Desktop\ict project\projects\Playing YouTube video from WPF\Playing YouTube video from WPF\obj\Debug\Playing YouTube video from WPF.csproj.GenerateResource.cache
+C:\Users\Kenneth\Desktop\ict project\projects\Playing YouTube video from WPF\Playing YouTube video from WPF\obj\Debug\Playing YouTube video from WPF.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\Desktop\ict project\projects\Playing YouTube video from WPF\Playing YouTube video from WPF\obj\Debug\Playing YouTube video from WPF.exe
+C:\Users\Kenneth\Desktop\ict project\projects\Playing YouTube video from WPF\Playing YouTube video from WPF\obj\Debug\Playing YouTube video from WPF.pdb
